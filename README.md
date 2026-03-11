@@ -25,4 +25,4 @@ Most emotion recognition systems analyze text in isolation. EDIREF moves beyond 
 **Tools:** Python, Scikit-learn (for evaluation metrics)
 
 
-![Alt Text](path/to/image.png)
+![Architecture](assets/ERC_EFR_Architecture.png)
