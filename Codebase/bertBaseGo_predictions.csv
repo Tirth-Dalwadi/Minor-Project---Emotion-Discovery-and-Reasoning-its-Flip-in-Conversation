@@ -1,0 +1,1355 @@
+utterance_id,english_utterances,emotions,neutral,contempt,sadness,fear,joy,surprise,anger,disgust,labels,predicted_emotions
+1,What are you doing Rosesh? India is your country! Bhartiya is a true human being. It is better not to read anyone's letter.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+2,"hahaha read the book rosesh baby or read the book also. How nice looks the gel in the balloon, ding dong bell.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+3,"Poetry is good but thought is not good, villain Rosesh. Momma said it is wrong to read someone else's letter.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+4,"It's wrong, but mom told you to brush twice and you only did it once, wasn't that wrong?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+5,galat tha per,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+6,Wasn't it wrong when momma asked you for green chatni and you passed red?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+7,wo to galat tha,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+8,"Last year mom's new hair style was like an ostrich and you called her a nymph, wasn't that wrong?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+9,han tha tha tha!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+10,"Please please please, please log in with sophisticated argument otherwise mom will say that I am very middle class. You decide then I will open this envelope and read it.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+11,"""my darling husband indravadan"" this is momma's handwriting...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+12,"darling i know what we do, what we do is so middle class. That's why we have planned our third child? But looking at the present circumstances I am not so sure. I can't talk to you mainly about this topic, that's why I am writing this letter, but what am I really like, this third child. i am so confused indravadan",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],sadness
+13,Mom...,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+14,excuse me,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+15,who is who?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+16,my variety,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+17,what a sweet night it was,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+18,han vaah sorry aapko kiya so stay the aap,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+19,Nothing but a little sleep and I fell asleep. sorry han,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+20,sorry what? It's 3:30 in the night. Everyone is sleeping. I just can't sleep,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+21,kismi don't cry. try counting sheep,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+22,what?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+23,man mein bed bakriyan gino,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+24,"Till now 16,824 beds have been opened in Chauki. of my jaitpur village",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+25,toh?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+26,"Those octroi eyes started making me question my mind. You have brought so many bad baked goods to your octroi, why not?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+27,somehow I think you are more imaginative,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+28,"There is no need to be imaginative to train, no one can even imagine. I have a habit of falling asleep listening to the sound of the train. Do you have such a habit?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+29,committed a bad habit long ago,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+30,what?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+31,thumb sucking,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+32,How to get rid of the habit of thumb sucking?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+33,pair of,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+34,ahan,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+35,Pair reversely I'll show you. this is this. aaa. aaa,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+36,what happened rosesh what happened?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+37,Nass on Nass Chad Gayi! my back,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+38,One minute one minute. moving the mat moving the mat moving the mat. wait wait. it's sad here,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+39,momma,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+40,shhh. peace peace one minute 1 2 3,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+41,kind of pain,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+42,han,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+43,you are amazing,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+44,What is there? My mother has a cycle repair shop.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+45,toh?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+46,They do it on that side too. He has also come to give a gift.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+47,ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+48,I learned from him,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+49,really?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+50,han chalu hai re. good night,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+51,"different types. I am sitting in your deep sleep, isn't it?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+52,haan,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+53,Can you recite the dialogue of your play in your mind?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+54,The dialogues of your drama go like this,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+55,"No, this was a special drama in which the train's box was made.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+56,train box?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+57,That's how my dialogue was. train noises.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+58,oh my god yamraj uncle. mama your night gown main corridor mein,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],sadness
+59,o just forget about it. indu indu,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+60,Mom and Dad have no pulse. dad gaye,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+61,What rubbish Yamraj ji you are keeping alive now?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+62,There she is Kalyug's savitri. I am walking,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+63,No no no no no please stop. please bring my husband back alive please,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+64,"Apart from that, Maya has asked for something else. And why don't you want a child?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+65,"There is no Yamraj ji, even if he asks for something like this, he will never say anything to you. What will happen to us if 100 roses are paid?",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+66,o just shut up this is the time to joke. hello indravardhan,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+67,everybody sings,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+68,I already knew that this was all a drama of you guys.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+69,"Just a little while ago you were crying. Sahil said that there will be no problem between us but when the time comes, Sati Savitri will definitely be made for me.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+70,and momma meet him this is ramesh shirke stage actor,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+71,Hello,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+72,i hate him.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],sadness
+73,Mummy ji is the one who met everyone.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+74,Why don't you have some fun before the wedding anniversary party?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+75,I'm sorry mom. i love you.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+76,Mummy has learned that everyone acted for free. Only 300 rupees for his costume will cost him half of my money.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+77,monisha please.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+78,"mr. Sindolin ghar mein meaning, will anything good ever happen with our family after 7 years? i mean a little bit",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+79,"Yes, as if we have got an extra cylinder of gas, has the municipality given permission to extend the balcony to the outside and make an extra room?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+80,Somewhere like this our entire family is living with each other.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+81,right,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+82,let's show you such a nice thing,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+83,"hey chambu. Ham Bahubhai Jamuna's pass cut piece is not in the center, please show me a shirt piece.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+84,I mean Jahan our family is supporting each other ok,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+85,okay.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+86,ocean of the unknown,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+87,mountains of mystic,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+88,Go in one minute one minute?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+89,nahin nahin we are sorry continue,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+90,oceans of the unknown mountains of mystic supportive family hand in hand that is what we seek,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+91,Who can tell who is the mother of father and daughter? come on let's eat food,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+92,how much love we had between each other,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+93,oh my god monisha i think you are gay,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],contempt
+94,sahil please rona band karo na.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+95,Main Zinda Hoon Main Zinda Hoon,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+96,Maya is dead,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+97,momma,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+98,let's see what's going on,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+99,thank god I got food,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+100,What does it mean? Where was the food?,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+101,"Yes, that's Pinku, he is becoming very badass these days. Today Kamini hid till the food from us. pinku bahar came out of the bathroom",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+102,"If there is such a food then no one will remain silent, what is this?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+103,daal and biryani,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+104,who is this black?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+105,wow biryani,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+106,अच्चा. two blue has been added,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+107,"blue? Show whether the lentils are blue. Who put dirty clothes in the washing machine, that's why it is so bad.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+108,huh? Meaning: Did you put garam masala along with your clothes in the washing machine?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+109,"Hi sir, I have just come out of the pink bathroom.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+110,baba baba main kuchh dusra kar banaye hun hai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+111,"No, no, please give me the instructions, I am not hungry at all. I miss you a lot",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+112,kiski?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+113,obviously Maya's,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+114,coast,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+115,mother,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+116,main hun iska meaning tum indu,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+117,nahin nahin rosesh ki baat hai,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+118,"Sahil darling control someone or someone in some way to live. Look at this, the obituary has also been published.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+119,we also look at this side of the story,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+120,Then the newspapers of the main day printed this photo and the details of the condolence meeting at 3:00. varna obituary page per obituary aana is so middle class,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+121,hi momma,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+122,yaay whoopie i'm alive,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+123,I mean it only in my voice.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+124,on the contrary to nahin bacche indu,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+125,Shradhanjali suniye. What little little little can be done suddenly.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+126,Maran is the way to end life.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+127,oh god,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],surprise
+128,Maya who passed away?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+129,thank god we are all there,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+130,whoppie,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+131,"Mamee jee, sandwichh?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+132,"Nothing, nothing, nothing. tum log khao.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+133,"Mamee ji, will you like to eat plaiasai? for my sake.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+134,"monisha, plaiasai.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+135,"Mom, please eat. Daddy must not have had any food.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+136,"Mom and I also like the office lifts. Dad, no one is in the lift. you don't worry, huh?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+137,"And we went to the police station, no, mom. wah daddy kee laash nahin thee na.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+138,"Achcha, did you clean the wall of that corpse?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+139,"Dushyant, you have licked your face once, then what is the need to lick the wall.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+140,"No no, some kind of correction is necessary, sonya. I'll explain.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+141,"jeeja jee, wah laash jis aadamee kee thee, usane khudakhushhee kee thee. Why would you want to be happy if you say that daddy?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+142,You have to try to make some sandwiches and eat them to make yourself happy. Are you talking about this or the field of chillies?,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+143,"oh my god, is it very sharp? lay. Main us mein gud daalake aatee hoon.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+144,"my god! good in sandwiches? Please give me a braaiak, moneesha. Rosesh, I called you in the railway station.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+145,"maine. I had called. I came to know that a disaster has happened, a train has derailed. par wah goods train thee. The food is gone. Don't worry, mom the train has not been harmed at all. Because what is it, that the train is unbalanced, that is low. I'll explain. The world's, Rose's room is the train compartment.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+146,"Dushyant, please play with me later. Mom, Dad's voodoo chart is telling, whose cave is that in?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+147,in the cave?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+148,you main chavai? But why would you go in search of dad?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+149,sooosoo?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+150,how gross!,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],disgust
+151,"naturai's chall. The rain must have gone to the cave. Because what happens to the kidneys, I'll explain. to rosesh…",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+152,"dushyant main kidney nahi banoonga, okay.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+153,okay. mom...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+154,"Nahin, plaiasai, we all have already understood, you understand Moneesha.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+155,"Mamee jee, please have some food.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+156,"no thanks, beta.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+157,"Mamee jee plaiyasai. Look, I have made sheera.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+158,"tab to daifinitely no thanks, beta",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+159,Fir to you 100% jail hogi Sharman,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+160,it's preposterous uncle partner's daddy is pretending to have a heart attack and nothing is happening,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+161,let me take it,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+162,hi hey guys sharman what a pleasant surprise. you were going to get married,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+163,uncle man lijiye ki main roses slapped,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+164,theek se samjha actually slapped me,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+165,kyuu,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+166,"Hey brother, he is showing a demonstration of his case.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+167,But don't you want to burn uncle Rosesh's hair too?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+168,nooo,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+169,haan ​​to jala,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+170,Nahin uncle please assume ke main Rosesh slapped Rosesh gira hello mein aag ab ab aap aapka reaction kya hai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+171,hahahaha my bad reaction to stop my strong fans hahaha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+172,"uncle please, it's a serious stuff kya aapko heart attack hoga",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+173,"no, i dont think so",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+174,point proved,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+175,Because Rosesh's poem got the first prize and yet I did not get a heart attack.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+176,that was a great poem. okay. title tha chappal ki chu chu ne chi chi chi se ne chi chi chi se chi chi chi ki chi chi chi chi kar kar kar kar kar kar chi di chi chi chi chi chhu suno ch ch ch ch ch chi chi chi chi chi chi chi chi ka kar kar kar kar ka chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi hu suno chi chi chi chi chi chi chi chi chi chi chi chi ka kar kar kar kar kar ka chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi listen kar,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+177,"I saw you quietly, why did you want to burn his hair, why did you come here, why did you come here and tell me your poetry.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+178,Hello! good evening indravardhan,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+179,"are you madhu uncle, you have such a big bag here",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],anger
+180,now I will definitely have a heart attack,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],sadness
+181,Arre Sharman tu yahan. everything ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+182,yaa i'm ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+183,I didn't think everything was ok.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+184,i said i'm ok,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+185,is he deaf?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+186,wow madhusudan bhai you have such a big briefcase why are you at the doctor's place?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],joy
+187,"Then he said to mother that he has to donate some things to the Police Welfare Association, so he bought some things for me.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+188,"I remember the police now, news flash came in radio FM tu02ak722",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+189,this is my kar ka number indu uncle,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+190,But they said there is a criminal at large,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+191,han to vah mujrim yahi hai rosesh,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+192,kya kabse,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+193,"I have just started a side business, I am a fool, I have come here to escape from the police.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+194,Like a good citizen I have called the police that the car is clean in front of the building.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+195,bolo,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+196,manisha you are theek to ho,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+197,Are you okay?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+198,han han main bilkul theek hun beta,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+199,to main there is absolutely no shore. The beach is feeling very close to me. help!,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+200,He called the elevator service center by phone to find out that his chief engineer had gone to Bahar village.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+201,And the junior engineer has got jaundice.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+202,oh god what will happen now?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],surprise
+203,His liver will become weak and he will not be able to digest protein or alcohol. i'll explain,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+204,no need to make liver maya,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+205,"Mom, please tell me that you have a liver.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+206,enough dushyant!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+207,Aaa! shore! And there is a tube light and it is also made of glass.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+208,"Monisha, how many times have I told you to lose faith in this baton?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+209,"And the tubelight will not be made of glass and what will it be made of, Monisha. hahaha! how to walk and what color is it?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+210,"isn't it? The lift man's stool is there, what color is it, hello, nothing. what is it?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+211,There is no breath on the beach; it seems the oxygen is running out.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+212,Your life is still in the lift and you too are not running out of oxygen.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+213,"And there is the question of where to eat and drink, and we will keep asking in some way or the other. I just watched TV and got you.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+214,Dad! please.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+215,It is a father's nature to say the wrong thing at the wrong time.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+216,really,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],surprise
+217,hatie hatie. Bhabhi! I have written a tribute to you. what kind of story will you tell? We did not know that sister-in-law would go in the lift. hum,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+218,rose out! out!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+219,hi to hun main ghar ke out,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+220,"so go in. Dad, I don't care about you.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+221,let's go let's go,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+222,aaaaaa! The beach lift is still working. The lift is moving slowly. The main thing is going on the shore. I am living in God's house.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],sadness
+223,you will never shut up,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+224,coast,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+225,"lift has opened. please spring has come. come out. Always in a hurry, press the button on the ground floor and press the button on the top.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+226,"Now I am on the beach and I have pressed one button. But if I put a little pressure on the stop button, it kept coming out.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+227,What is the need for you to lift this miserable lady from the vehicle?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+228,"The beach should remain calm. By the way, this thought has become so sad. You are using and scolding me. come on beta come on. bass ab rona band karo. They are fucking with each other. monisha monisha!",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],contempt
+229,are the coast!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+230,tum suno you are safe ab sab kuch thik thak ho gaya tum chup karo rona,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+231,Mummy gave me a lot of money. What would happen to the shore if I left?,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+232,"Well, everything is fine but nothing has happened to me if Soniya's predictions come true and one of us is going to die today.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+233,aaaaaa,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+234,This is me or you. so isn't it better that we spend our last days in peace,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+235,aaaaaaaaaaa,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+236,like mature sensible people. manisha sundar hi hona,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+237,aaaaaaaaaa,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+238,Because this is the way the noise made in the corridor is too middle class. Come on you.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+239,What wrong have I done to you? yes,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+240,my table. Look how much good it has done.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+241,"to undress, to undress. I mean that you are better than me in every thing, I decorate the house better, cook food better, wear clothes better.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+242,what are you wearing main monisha?,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+243,tune me?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+244,sorry,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+245,nehi mention not,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+246,"it's all right hai hain monisha, for god's sake, mention not two",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+247,tune me first?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+248,every thing is middle class,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+249,I visited you,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+250,"aaaaah, indu indu",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],joy
+251,"When will it last? Tok tok tok tok tokte hai. I wish I had a mobile phone, sometimes it would be less limited.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+252,samjhi? tok tok tok tok,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+253,"The society is gay, I know that I am better than you in every thing, but your heart is better than me.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+254,yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+255,a little. and i hate you for it.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+256,you hate me?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+257,i hate you.,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],sadness
+258,you hate me mayapuri?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],anger
+259,i hate you.,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],sadness
+260,i hate you.,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],sadness
+261,"Monisha, it hurts, don't hate.",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+262,hate. you hate. coast.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],anger
+263,"okay momma, this is because of the clue",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+264,"Rosesh, that trophy will not be there in your ear, right?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+265,"oh right momma, if you want then you will tell me. But where did Momma suck the trophy? I have hit a corner. Look at this, the 27th packet of namkeen. And he pokes the bag and makes false jokes. And here, the chocolates inside the soap box. I don't know where it will be kept. isme se bhi? My father did not read approximately 135 poems. see this one was my favorite momma. gutter drain, drain drain",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+266,"okay rosesh, i am sure that this is wonderful sweety. But we don't have time for that right now.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+267,right,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+268,"We went to the beach before Monisha, we kept the trophy, right?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+269,so what to do now momma?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+270,"Well, if we are not getting that trophy then we can save the coast by buying another trophy from the market, right?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+271,You mean like this we have bought the trophy and we will tell Sahil Bhai that we have got the trophy.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+272,ha,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+273,momma,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+274,"They are angry that even a little innocent or completely innocent cheating is possible but it has done little good. It is for the improvement of the coast. Just think, what will happen to Monisha's reputation if she goes to the party with him? That's why calling it a beast is not wrong, right? is not wrong na?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+275,no. Lord Krishna has also said that such a person can speak only in the name of someone else's welfare.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+276,right,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+277,toh momma chaliye na duplicate trophy le kar aye,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+278,Why should I wait? I have already bought those trophies and kept them.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+279,momma,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+280,"Darling, don't make chilli pepper in our house.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+281,Where do you want to eat chilli?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+282,That's why I haven't given up till today. but i think we should give it a try. The food will taste better.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+283,chilli,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+284,coast. Monisha is in the house?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+285,no no mom.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+286,to listen. You made a big mistake by marrying Sahil Monisha.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+287,Mom!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+288,"Not if you don't want to hear me then I will go from here. I have to tell you what they did in Mrs. Samtaani's champange party. I asked for breast milk. That too had spices. So when people said cheers, he said, ""Why do you need cheers, you don't have a sofa in the summer?"" and then he laughed out loud at your joke. When someone else laughs, he laughs at the joke. ki cheers chairs kursi. And then he asked for a spoon in front of everyone. chancha.",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],joy
+289,"Mom, what's wrong with asking for a spoon?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+290,Masala stored in glass for eating. Then he ate by looking at the glasses. He didn't even say cheers out of courtesy.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+291,what will i say to you,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+292,absolutely!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+293,Why should the least cheers be required?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+294,right!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+295,Why is there no glass of milk in my heart?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+296,"Absolutely, but please be strict with him and speak in strict words. just say monisha…monishaa! Hello! my darling!",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+297,Monisha!,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+298,"You have gone crazy, Jugal! Looked at it for the first time and fell in love while looking at it? There is a 50% discount coupon for Naisha Mausi.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+299,"Monisha, I love that 75% discount coupon.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+300,Come on mana. What I mean is that you will love a coupon with 75% discount but you will be gambling only on the discount. What's the last thing in the sale? Have you cheated?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],contempt
+301,monisha!,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],joy
+302,"That day there was a sale of 50% on plastic cheese in the mega mall. She ran like a girl, went there and bought 2 buckets and 7 drums. Have you found out what happened? A mere friend…look at this old man. When hot material is added, the plastic melts. Now this comes in handy for keeping cold cheese. see?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+303,"Monisha, what is one tumbler kharaab? Didn't you say yesterday that the bucket you bought was very strong and the money was worthless?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+304,where was that!,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],surprise
+305,"fir? The water that can be made is not tumbler, it is bucket!",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+306,"Mom, Guru is clearly telling that the lease papers are safe, where are they?",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+307,"sonya darling, please locate those papers. Some municipal corporation has sent us a notice, on top of that the building residence association has also sent us a notice. If within four days we have not submitted the lease papers, we will have to file fraud cases against each other.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+308,"The poor guy will go bankrupt, the brother's house will be sold, the poor guy will have to go to the clinic on cycles.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+309,if we are a clinic then it will also be sold,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+310,"Ha Sahil Bhai, he will become a compounder and go to some doctor. And Mama, you will start selling this food, papad and food from door to door. take the food",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+311,"All this was done till the sweety shell compounder was made, but the main aachar papad and food was not made in every household, its just too middle class. oh come on sonya think of something.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+312,"oh mom please give me some time, let me think.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+313,how much is it?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+314,there is a way,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+315,key,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+316,"Only you know where the lease papers are kept, right?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+317,unfortunately,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+318,"so if we have already said that we have had many papers, so?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+319,"oh my god, you are in heaven, why will you go there?",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],sadness
+320,"oh silly boy, let us find a niche for our soul.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+321,oh you mean,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+322,I am a proud father. Those who pay 100 rupees can open the niche for anyone's soul.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+323,"Bhabhi, you can't even go to Kandivali by taking a taxi with just 100 rupees, so how can you reach this niche from above.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+324,"and besides agori baba is just too downmarket. sonya, don't you know any expert father of paranormal studies or occult science?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],contempt
+325,"yes mom, he is a student of occult science, Krish Majumder.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+326,"oh you mean sanjeevani and santanu majumder ka baba, i mean son",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+327,yaaaaa,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+328,Do you know how to call great love?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+329,monisha please use bhut pret karke cheap maat karo,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+330,Its called Atma Ropon Proyog.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+331,that sounds classier,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+332,Bakura Bakura what are you doing? bakura said kill everyone bakura,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+333,"are baa baa look, the bride is gayi baa",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+334,But did you find out where you went?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+335,"Nobody knows anything. This is one way to convince them. Nakli Saadi, Nakli Dulhan Samjha. And if you are eating the same thing, I will add some more.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+336,bakura,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+337,"Haa baa baa, look at your bride aa gayi.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+338,"What are you saying, daddy, how are you? The shore has done this.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+339,"Don't worry. I have come to take care of Rose and make her a bride, everything will be fine. aha, Rashika baby, come on, come see me, come on!",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+340,"wait. Dad, you cheated on your father, don't you care?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],anger
+341,"are, what did I betray? I am here",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+342,what happened babble?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+343,"This is not a bride, it is a rose.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+344,hi baa,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+345,key bakura,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+346,"Dad, I disappointed you so much with your mother.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+347,"By the way, Baba, even this rose is not looking so bad. take it away",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+348,nehi baa nehi. I won't let this mess happen with your last love. mom,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+349,ha ha ilaben come quickly also go. Mandap Puraj has just started. Sarita's daughter is finally married to Preeti and is living on my shore.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+350,"Pandit ji, you have started doing the work.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+351,method babla method. If I do this then it will be mine.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+352,Why will you be upset?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+353,"Come quickly brother, it's time for the auspicious time.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+354,"Hey Pandit ji has started, Cholo Cholo indu, come on rosesh",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+355,ha ha let's go let's go I am also coming,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+356,bakura,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+357,haa haa baa,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+358,Bakura is keeping the sea clean.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+359,"ha ha baa, nothing more can be done",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+360,Rosesh Baa brought him here and called Preeti's house. What should I say until I reach this pouch?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+361,okay. let's go mandappuraj has started singing,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+362,bakura bakura,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+363,[chants mantra],neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+364,hey the shore has become so clean,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+365,"Don't you want to save the concrete building? And by the way, today is the last day, at least results are being achieved.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+366,"absolutely. desperate times, desperate measures. In fact, if Baa had told me too, I would have been ready to marry him.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+367,bakura,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+368,drive,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+369,[chants mantra],neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+370,"hey pandit ji stop, please stop. Babla, I don't like you at all, why did you come here, then why do you want to marry me?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+371,"Exactly, in fact I had a brand new suit made when I was married, you found out that there is a big mall in Parosh. There is a ninety percent discount for two hours.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+372,Ninety percent discount sold for two hours. bakura mere pair,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+373,"kat dun, monisha?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+374,hello sudhanshu,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+375,flower for my darling maya,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+376,Are there any flowers? Don't you have money to buy a whole bouquet?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+377,funny man,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+378,yes,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+379,Maya showed no more patience to me.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+380,achha to washroom us taraf hai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+381,or which side is the bedroom?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+382,why?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+383,Maya's painting is a very passionate place that I want to create...move?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+384,all set dad..great dekhiye mai aapko missed call dunga uske baad aap apna romance kijiye,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+385,momma you don't understand me,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],sadness
+386,you just shut up,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+387,wow nashik ready to go,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+388,wo to hmlog indravardhan ke nazro me jaashik rahe..actually we hum tumhare khupane wale,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+389,nhi momma,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+390,"Indravardhan has come to enlighten us, our home doctor has come, we are not present in our existence.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+391,"Momma, she is fooling you..there is no problem.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+392,Sahil has seen two people together in the coffee shop..tell me Sahil,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+393,What do you do dad? He pulled the water from his sleeve.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+394,ghosh,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+395,us yasodha's..hotel sunvilla's coffee shop,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+396,hotel sunvilla ..but they are ready for renovation mumma,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+397,really?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+398,"I also felt the same, but it had reopened yesterday.. Mom would have told dad that the renovation of the hotel was going on so no one would be able to go there.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+399,right,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+400,"You are like an owl, brother...you are like an owl to win the challenge.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+401,roshesh give me a break I am very serious,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+402,"No..you are like an owl, brother.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+403,"The shore became your city, the donkey became the shore..but the owl did not become your shore...because the owl has already been with you...the sea today has caught Indravardhan red handed,he is in deep trouble.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+404,i can't take it! i just can't take it!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+405,please take care of yourself momma please,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+406,There is no one in the world in the name of justice! i mean monisha who can make mooch in mona lisa painting is no picasso for her,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],contempt
+407,He is also his long lost uncle. Whom he hasn't even called for 20 years!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+408,What is the need to do this if I want to give a small gift…you know like these thermoses…,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+409,ashtray,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+410,ya statue of liberty ka coffee mug,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+411,This lady…a different colored strap in one day's time,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+412,that's right! international middle class. but Picasso's headless hero?,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],contempt
+413,"haan ​​very sad! Momma, don't you have any long lost uncles?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+414,"yes, everyone is alive",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+415,really really very sad,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+416,"You know what the worst thing is, that after becoming a crorepati, Monisha will look even more middle class.",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],contempt
+417,Sister-in-law told me that she would spend a lot of money.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+418,"Yes sure….but you know his style of spending a lot. If you buy a gown from a boutique in New York, you will get a bag free. You can go to some salon in Paris and ask for waxing of both your arms.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+419,Relax momma..sister-in-law has given the passport to Raddi by mistake.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+420,"good! no that's worse. If you go here to Manglu Baba or Lakar Baba, you will build a temple in his name. You will open a chain of restaurants. oh god we are in serious trouble rosesh.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+421,"umm, Monu, what food have you prepared?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+422,Why are you asking?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+423,"no, I have made a good one",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+424,Why can't I make good food?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+425,arey ni ni,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+426,haan,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+427,haan ​​haan,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+428,"Hello, when did you get the parcel? hmm, one minute. Sahil, aloo palak is better or daal?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+429,Daal,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+430,"Daal is better. But listen, home delivery is free, so why should you charge me two rupees for service? Neither will nor will he walk like this. I have to serve you, I want to get two rupees, why?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+431,"Monisha, Monisha hang up the phone, I will give you two rupees. come on",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+432,You owe me two thousand rupees and you will go to the shore.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+433,"Why, for the next thousand days, are you ordering food from the hotel?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+434,"Naa, wo na..tell me one thing, are men and women different from each other?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+435,haan ​​hotel hain,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+436,how,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+437,"Kaise matlab, mard...mard...wo mard hote hain, aur auratein...come on Monisha, now you don't know how men and women are different?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+438,"I am not talking about being different from us, I am talking about the mind.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+439,"from good mind? These are totally different hotels. look, man's brain is hot, and son's hair is hot",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+440,"Very funny, don't make any joke, this is a question of killing my life. You know, mummy says that men are insensitive compared to women, they don't know much about cricket on TV, and when WWF is on Star World, apart from such things I don't remember much.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],contempt
+441,"absolutely wrong. Apart from these things, a man remembers many other things. Like, umm..why didn't mom say this?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+442,"I told her that you remember all the birthdays and anniversaries, you started laughing harder, and…you remember, right?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+443,haan ​​haan of course,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+444,our wedding anniversary?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+445,bees feb..january,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+446,haan,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+447,ke aas paas,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+448,bees january is correct,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+449,haan,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+450,my anniversary?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+451,ninth..november,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+452,our first meeting anniversary,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+453,ravivar,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+454,so,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+455,har ravivar. I say thank you to God every Sunday that I found you.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+456,achha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+457,i love you moni darling,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+458,i love you too sahil..umhuh our anniversary of the expression of love?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+459,"Come on darling, what are you asking now? Now I can ask you again",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+460,puchho,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+461,hein,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+462,puchho na...puchho puchho,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+463,just a minute..haha...humari first...umm....kiss anniversary,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+464,fifth april,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+465,"wow..um...I made you sit in Mercedes and feed you paanipuri, that was Babulnath's place.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+466,twenty first august nineteen ninety nine..huh,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+467,what is this date actually?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+468,haan,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+469,"no, just asking...um..alright, we both went together and later we went to the chemist shop..",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+470,seventeenth september beech candy chemist day and night,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+471,maya..hah..maya..haha..came jogging..aa...brought flowers for you,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+472,This is rose..,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+473,Haan...now you put the rose of my name in your hair.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+474,gulaab...as in roses..,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+475,haa aan...to roses smell as sweet in english,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+476,roses are as allergic for me in any language,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+477,yes but maya...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+478,I am allergic to rose..indravadhan,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+479,"Maya you are allergic to red roses, these are yellow",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+480,"Allergy is in my nose, it is not there in my eyes..what with the color...just...get these flowers away from me..",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+481,maya..,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+482,"Even if tomorrow doesn't show me, I will never miss your birthday.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+483,"no no no, the show must go on..you need to know.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+484,Where is my gift?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+485,I have written a poem for you,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+486,Where is Kavita Chod Gift?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+487,"Poetry is a gift, Indravardhan..in this Roshesh has hidden all his feelings.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+488,"I keep this poem hidden, only then will it be read or we will be read as Sunni.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+489,oh enough,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+490,okay oaky,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+491,"Listen beta, we will listen",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+492,"Oh momma, oh momma, you gave me birth oh momma, oh momma, you did the best thing oh momma, oh momma. Aakash...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+493,wow wow wow..mere india ratna wow,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+494,No one said anything..I am the only long-legged son.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+495,hii hii roses..,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+496,Hii,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+497,Your sister-in-law has packed some food and given it to us.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+498,wow thanks,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+499,and all the best.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+500,Have you solved the problem?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+501,what problem?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+502,hein? I don't tell you anything..there is a coupon for lunch at Monisha's pass..to see everything that happened..see lunch with wife or dinner with mother..and they all live happily ever after.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+503,achha saath..look you just remembered me..darling tomorrow in the evening I have to go to give lecture to children in orphan ashram..actually dinner will not be possible..so can we all go for lunch?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+504,Mom what is it that I have already promised Monisha that I will have lunch with her so I don't think really it would be possible,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+505,it's okay,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+506,roshesh,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+507,I will leave for the orphan ashram tomorrow afternoon..my heart will also be troubled..the orphan children will feel as if they have found their mother or I will understand that I am with my own sons.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],sadness
+508,nirupa roy,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+509,aap to ruth gyi mom,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+510,such is a lie..roses are not here and you are too busy,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],anger
+511,Should I cancel the previous meal?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+512,"Why do you worry son? It is the shore, isn't it? Will go with mummy, isn't it?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+513,thank you so much darling..to kal zodiac bistro..2'o clock.. can you make a reservation?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+514,yaaa..i will do that,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+515,love you beta,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+516,love you momma,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+517,ooo love you too sweety,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+518,"hahah...excuse me, haan sahil bol, whatsup?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+519,sir what are you doing right now?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+520,"Well my friend, I am working on a new drama script.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+521,"Look, read your script and immediately reach Zodiac Restaurant, this is where you have to do live drama.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+522,what?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+523,"Look, don't ask questions, what is it that you have to go to doctor Rajshekhar Acharya to get relief. And if I tune in then I will be happy on the shore of heaven.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+524,"Momma, Sahil Bhai's call has come, I want to surprise you.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+525,oh my god! I'm sure you would have selected bangla in Delhi. First tell me why didn't you think about stopping the use?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+526,"haan..melodrama..you come with me..you are just a guest of the month, you have blood cancer",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+527,umm but blood cancer is very pedestrian..kuchh aur socho na..,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+528,lemme see..lemme see..haan..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+529,liver?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+530,cancer of the esophagus?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+531,right. that's good that's good,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+532,We will show that we have hidden this from Sahil Bhai so that he does not have to cancel his plan to go to Delhi.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+533,And..and Monisha somehow by chance heard this thing..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+534,mummy ji!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+535,aa gayi wo..continue..and listen..blood cancer hi bolna..esophagus wo nahi samajh paegi,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+536,okay,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+537,mummy ji,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+538,no no rosesh..you will not leave the shore I beg of you,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],anger
+539,"But mom, how can I tell you that you have blood cancer?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+540,Sahil is going to cancel his Delhi program and I don't want this.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+541,mom?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+542,sea ​​brother aa gaye,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+543,shh..idhar aao idhar aao,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+544,what happened?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+545,Listen,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+546,what to do now,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+547,baitho,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+548,hey what are you listening to...let's go..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+549,ro lijiye momma..ro lijiye,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+550,what happened mom why are you crying?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+551,Nai..where are you crying..only some food is running in my eyes,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+552,so much waste?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+553,Nai Sahil..mummy ji hoooth hai hai..inhin hain cancer hai,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+554,what?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+555,"No, no shore..I haven't had any trouble..I'm fine.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+556,haan ​​I know that you are fine haha ​​because your six monthly medical reports are in my hands and and..now comes the surprise..when doctor Sarthi saw this report he immediately said that he wants to write a book on your lifestyle. .maya sarabhai's health and fitness regime haha ​​look thirty and fifty,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+557,forty eight,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+558,"haan ​​ma...matlab..you are healthy as a horse..and by the way, who told you that you have cancer?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+559,doctor desai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+560,doctor agarwal ne..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+561,huh?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+562,doctor desai ne,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+563,doctor desai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+564,I don't know why they said that...that I have cancer of the esophagus.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+565,But you are saying that you have blood cancer.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+566,haan ​​meaning...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+567,dono hai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+568,don't be able to,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+569,mom..is the cat out of the bag yet?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+570,what are you saying sahil...haan...i mean i don't want that you...,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+571,Delhi chala jaun? isn't it? so i am not going,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+572,why?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+573,The minimum age of the dean of oxford medical center is na..that's thirty eight..and i'm a bit younger.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+574,yay..hehe,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+575,hai ram..dilli cancel..matlab sale cancel?,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+576,sale?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+577,"Haan mummy ji..my home's secret, pillow, utensils, utensils all were put on sale and put in the garage..oh my god..Radha bai..",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+578,mom..happy?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+579,"very. I'm so sorry about this but see, you are not going to Delhi, it will be good for you.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+580,how?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+581,because they...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+582,"mom,mom",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+583,"Maya Maya, what is your name?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+584,can you relax dad,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+585,Now who will organize a 6 pose dinner in a five star hotel to collect money for orphans and hungry children?,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+586,"I am not a mother, I am just roaming around a little.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],sadness
+587,"don't be modest. What a little mama, you are in such a dark mood that you are making fun of me, Mama!",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+588,"I am roaming around the world, I am not a patient but I am roaming around the world.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+589,"Just ignore him beta Indravadan I always feel like I am pretending to be the main one. O my hand, take me home",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+590,But Mama is at home doing painters touch up in the bedroom.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+591,that's why I'm lying down mom,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+592,But I wanted a man without any burden on Monisha.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+593,"Come on mom, you are my burden. Monisha, will your mother become a burden on you? Answer by monisha, monisha.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+594,I got my answer son,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+595,"When mom divorces you, your pure test will not come and my pure test will not come till then you will not go anywhere and that's an order.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+596,hi hi hi who can fight the battle of a son i love you darling,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+597,let me check your temperature,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+598,sacra for that let's pray together hold my hand and old mama's hand. dear krishna bhagwan you consider my mama as your mama yashoda mama na sahi devaki mama samajhiye,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+599,chhuuuuu you are such a beautiful girl.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+600,this?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+601,Because Maya won't let you live anymore,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+602,what? really,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],surprise
+603,"this is just not done monisha, just not done",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+604,hush mom,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+605,don't you dare me..now you invite me to the evening dinner party and you reach there at dusk..what are you thinking of yourself?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+606,"rule number sixteen mom..now it's time to keep the party sharp now it's only the middle class people who have reached..the hundredth couple has come to say..arriving at least one hour late in the party itself is a style statement. Rosesh, show me the rule.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+607,oh yes yes..momma yes..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+608,"What rule should you show me? Monisha, I called you again and again.. every time this phone is not reachable.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+609,"I'm sorry mom, my phone was with my assistant Phillip. you see khud ka mobile khud carry karna is so crude and down market..right rosesh",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+610,It's fun to behave like this with you Monisha,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+611,"um..mom, I am sending you guys dinner here..and mom, there is a cards and cocktail party at my place tomorrow, you will definitely come okay? ciao",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+612,you know i think we've created a frankenstein's monster,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+613,simple aunty licks monisha bhabhi on head,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+614,"argh..that simple, I tell you..wo to bilkul..wo kya gaaliyan deti thi monisha?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+615,kutti kamini haramzaadi,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+616,"right. You bitch, you are a bastard, she is so simple..haa aan..what have you done to us, our innocent Monisha..where did that old Monisha go, I miss her so much..will she come back?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],anger
+617,rosesh ready for the shot?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+618,yes yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+619,sahil bhai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+620,hey stop he is going in this field,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+621,excuse me you can't go to the field,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+622,madhusudhan,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+623,sir that's the field,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+624,madhusudhan uncle,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+625,i am sorry brother,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+626,it's okay,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+627,all the best and just go and..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+628,band baja do us raj gopal sharma ki,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+629,I have finished the family drama so now I am starting it.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+630,go go go,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+631,ready sir?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+632,yes sir,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+633,ready?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+634,yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+635,role,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+636,rolling,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+637,action,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+638,Who will give this new gift to the king of Mumbai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+639,cut! Why is he hurting so much? rosesh spoke normally,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+640,normal hi tha sir,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+641,that seemed abnormal,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+642,ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+643,Who will give this new gift to the king of Mumbai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+644,"Cut cut, it's not abnormal, a little less beech was ok?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+645,ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+646,Who will give this new gift to the king of Mumbai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+647,cut! action,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+648,Who will give this new gift to the king of Mumbai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+649,cut! action,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+650,Who will give this new gift to the king of Mumbai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+651,cut! action,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+652,Who will give this new gift to the king of Mumbai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+653,ok,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+654,was this ok?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+655,ji nahi,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+656,but you said ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+657,"ok this boy is not an actor in life, he was ok tha",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+658,pack up,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+659,arey one minute excuse me director sahab just give him one more,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+660,"Leave it alone bhai, I haven't liked any of his styles since I was 39.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+661,"Meaning: Rosesh bhaiya will not become a hero. Baldev uncle has organized a surprise party at home, what should we do mummy ji?",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+662,arey why? Sahil is also going to get that award. i mean harvard medical journal mein iska research chapne wala hai that's not a small thing i am so proud of you darling,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+663,I too but want beach trophy steel,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+664,can you just chill guys? please? seeing roses breaks my heart,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+665,You have also given me an interview Sahil Bhai,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+666,"Why do you think you rejected this film after reading the script, it was just too down market.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],contempt
+667,aur tum koi classy crossover film karne America gaye,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+668,America?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+669,Why don't you come with me to America to take my award?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+670,oh that's so nice,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+671,brother are you like this?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+672,can we say sweet and special siblings or blood brothers. ye bhai ho toh aise is just so middle class monisha,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],contempt
+673,hein,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+674,huhuhuhu,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+675,I told Sarita that I am angry and I heard the name of the agent.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+676,Why did you keep the girl's name Ajanta?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+677,because her mother kept looking at the caves when she was born haha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+678,"Dad, imagine if you would have seen Qutub Minar.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+679,are tu kitna interesting wedding card banta rosesh ka rosesh weds qutub minar haha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+680,very funny,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+681,nahin nahin come on main kisi ko nahin bataungi how can i do that i will talk to you later,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+682,"Ok everybody has made confession day in your house, now one has kissed another one, tell me the truth, first listen to me Monisha.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+683,kya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+684,"No doctor will make any argument about the truth, ok?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+685,ok,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+686,good,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+687,I just found out what a big confession Sarita made.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+688,kya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+689,when she ate and she stole lemons,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+690,What is the big confession in lemon stealing?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+691,those bad lemons will be stolen haha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+692,"To find someone else's confession, take a long journey and start your confession, mom, we will start with you.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+693,me,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+694,hmmm,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+695,haha okay,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+696,indravadan remember one day the electricity went off at our house and your father blamed me,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+697,"Are you there? Are you there? Do you remember this Maya? She is strangling me as hard as she can. Haha, this poor mad woman has also said something.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+698,actually wo,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+699,"Mother, what did you say?",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+700,I don't care about India.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+701,how could you please my mother,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],sadness
+702,anyway pure do saal zinda thi wo main told you tha na true sunke karna accept uska issue mat banana,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+703,Arey,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+704,monisha your bar,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+705,I once played old vegetable on the beach in my teenage days.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+706,ho gaya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+707,monisha confession beta what is the truth that we have not found out,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+708,I hope you don't wash the bedsheet of my bedroom and then turn it over.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+709,fir,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+710,ho gaya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+711,"Monisha, you are not able to understand any such thing which I am surprised to hear, you know such a truth.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+712,such a truth,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+713,han bolo bolo do mat,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+714,ok yesterday you gave me food in tiffin,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+715,The vegetables I cooked were absolutely fresh and the tiffin was also washed well.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+716,Haila,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+717,kya,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+718,what are you saying,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+719,now that's a confession everyone is shocked,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+720,ok indu after your bar,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+721,He was my sister and once I gave water to Rose with my hands.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+722,so what is confession in this name,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+723,the water was taken out of my toilet tank,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+724,what,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+725,Did you drink mine?,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+726,han han and also said that the brush in dad's hand is feeling sweeter today,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+727,momma,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+728,this is disgusting how could you do that,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],anger
+729,hahah there is no judgment no judgment mom,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+730,alright it's my turn now my confession listen mom you remember your friend dolly aunty,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+731,oho wo that bombshell 38 26 36,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+732,she kissed me forcefully,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+733,I am 17 years old now,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+734,"Oh my God, why didn't I stop acting like this?",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],sadness
+735,that's why I told you nothing hahaha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+736,haha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+737,coast,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+738,rosesh your confession bolo,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+739,go on,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+740,well mommy me,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+741,kya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+742,I am married and we have a son.,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+743,what roses,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+744,arey bhai vithal arey meine jo jhute khareede the wo wapas de aao,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+745,why?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+746,"Because after buying Rosesh's book, there will be no need to read so many books in life.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+747,"okay mom, there is no need to even read the tomato because after reading Rosesh's book, people are going to throw away the tomato anyway.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+748,what nonsense coast,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],surprise
+749,the sea level has gained 35 kilos,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+750,monisha please sahil tumse ye umeed nahi thi i mean you are really cruel,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],anger
+751,me!! it was rosesh mom who was cruel to us,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+752,"He is absolutely right, I have started making poetry, my gas is ringing in my house, think brother, Maya, someone has come to write poetry on the gas.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+753,This poem on indravadan cooking gas!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+754,What is the noise in the poem that you hear?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+755,"That's the sound of the house bell, daddy ji",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+756,"look right! Even Monisha, this thing went to the society.. that Monisha who till today has not understood that she should not wear slippers, she has not understood that she should not keep an exhibition of plastic bags in her house.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+757,this is a new point,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+758,Jo ye samjhi dinner party mei uhm uhm such fingers nahi chaatni chaiye. jo ye,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+759,mummy ji!,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+760,"I know it is a very long list! But the point is Monisha, this thing is also said in the society and you mean give the poor boy a chance. How can you know that people will be lining up to buy Rosesh's book tomorrow?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],contempt
+761,momma,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+762,hello darling!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+763,not a single book was written,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+764,we eh eh well baby today is the first day,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+765,it's ok momma,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+766,"See the shore, Rosesh Bhaiya, how many times have you gone?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+767,I am sorry mom. but remember you said that honesty is the best policy,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+768,"Because of this saying, it is a mistake to say never before, sometimes honesty is the best policy, but sometimes we have to speak falsely to keep Kisika's heart, why we should not speak falsely to keep Monisha's heart.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+769,Maya Bas Bas Bas Bas Ye Monisha Haaye Haaye Old Baadmein Ok Ok Ok Ok Ok Ok Will try my best to boost Rosesh's courage.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+770,and dad will help me,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+771,good,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+772,"Mom, you are here! so come fast i am waiting near the car alright!",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+773,"Sahil bhai, why should I drop my machine to the market?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+774,rosesh earning money for pocket money is a good thing but earning money by selling machines,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+775,don't be silly theater group's annual festival play hai mein usmein macchimaar bana hun research karne hai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+776,Are you doing the main role?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+777,"Nahin we are 40 machines but in us my main role is, the director has brought me forward.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+778,wow how many dialogues are there?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+779,dialogue toh nahi hai but meine improvise kar liya suniye dabduk dabduk dabduk gado,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+780,this?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+781,"offo, we are drowning in the storm of the sea but we still have this dialogue dabduk dabduk finally",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+782,great so now where to drop the niche of the market karun machi market,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+783,hello ji,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+784,"Brother, go to the beach, tell me, just now I have come from the village, I have to pay to go back.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+785,he is my friend,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+786,these,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+787,arey sasriyakaal ji doctor saab,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+788,this is manisha and this is my brother rosesh,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+789,I have become a puppet in the drama.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+790,A strange thing of mine also came into play. diler tussi tohp ho . I did not play the role of my dealer.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+791,hope,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+792,dardi rab rab kardi bebe dardi rab rab kardi ath mastaani teri chadti jawaani teri mei toh hun nain milaa aha aha aha aha,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+793,and then just walk along the coast,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+794,mom this is manisha manisha this is my mom,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+795,ohh peripauna aunty ji,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+796,"You scared me, you live on the shore, you are getting scared, son.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],anger
+797,wo hum uh,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+798,No gal! tssi let's go by the way I have come to throw you on my face this number is pure 600,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+799,But I gave you 500 rupees.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+800,"My aunt says that the more you take, the more you bring her.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+801,i appreciate that par uhh,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+802,"If you lie down more, you get more gunna from the front.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+803,Acha it means I will give you 2400 rupees.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+804,oye naa ji naa bauji toh aise hi nasiyat dete rahnde hai mei bhala aapse 4 gunna paise jyada lungi?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+805,par uh!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+806,"Yes, but if you call me to your clinic and do facial massage for free, then I don't want to do beauty treatment for a young person?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+807,coast can we go?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+808,uhh yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+809,hope ji bye bye,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+810,"Excuse me, why am I fucking you?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+811,oye naa ji naa mei taxi hai hai wo van khadi haina mere mama di taxi hai oye maame dr sahil!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+812,sasriyakaal!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+813,haaan!! uhh haan!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+814,my mother said brother,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+815,namaste namaste,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+816,excuse me uhh uhh i am repeating myself but you are a very interesting person,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+817,"Yes, you are absolutely right, Priya said that you made Monisha run away.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+818,Don't be crazy dad Monisha ke man bhi toh kuch hona chaiye nahi liye,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+819,"Hey man, this is not happening in me.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+820,doctor sahil doctor sahil namaste uncle ji,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+821,"Hey, come on son, come on, I will also come with you.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+822,dad monisha aap is everything alright?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+823,Aunty is there? I need to exchange this tire.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+824,why? Gurpreet didn't feel like he was drunk.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+825,You have given me this and you have thrown it away uhuhuh,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+826,what? I have already said that this Gurpreet is a very bad man.,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+827,"Dad, haven't you seen Gurpreet? Anyway, calm down, you are sitting here.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+828,betho beti,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+829,I threw away my hair in front of all my patients.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+830,what? in front of patients,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+831,"Haan uncle ji had 4 dogs, 3 billion rupees and a city too. These animals are speechless but if they understand then they will eat everything.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+832,Haan haan absolutely and the animals who speak a little have understood everything but also do not say a little in the path of the owl.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+833,Dad! relax will you dad,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+834,I feel like you might have cheated someone.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+835,"That's all I said, happy engagement. It would be easy to make lassi now, Gurpreet had given me this blender with so much love.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+836,you gave your fiance a blender in a mug,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+837,"This has a guarantee of only 4 years, if anything goes wrong in 4 years, then think of getting the money back, if there is anything wrong in 2 years, then we can get even more from the same money, right?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+838,How far is this woman thinking?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+839,"But see, uncle ji did not appreciate this thing, first he started looking at the blender and then when I said that Doctor Sahil's mother is also like Doctor Sahil, she made me go shopping and made ice cream and then threw away this blender. He gave his name as if it was very beautiful on his face.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+840,Yes because it is similar to the shore and you both are very close to it.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+841,"But uncle ji is talking about which street, so only 25-30 times he would have taken the name of Doctor Sahil.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+842,"For this reason, I threw the whole blender away and said that while treating animals, I myself have become an animal.",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+843,You take this gift and exchange it and if you like Gurpreet then give it to him and go and say sorry.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+844,I am sorry!,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+845,because you made a mistake,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+846,huh!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+847,come on come on let's go let's go,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+848,hello indravardhan how are you,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+849,Talk about work... I don't have time for polite conversations.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+850,haha.. polite baate tumhe hi aati hi tha..,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+851,hmmm,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+852,And now you are staying at Monisha's house...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+853,"Hey, I, I, why did you start staying at Monisha's house?!",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+854,Why?... If we both are not left together then we will have to fuck you at home... I will fuck my house a little.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],sadness
+855,i.e...this house is not mine,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+856,legally to me hi naam pe hai na,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+857,aray but...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+858,This house... our two cars... bank locker's jewellery... Alibaug's cottage...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+859,Aaila..,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+860,This nail proves that you are staying at Monisha's house.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+861,anyway anyway... hmmm... ye rahe divorce ke kaagajaat jaara sign kar do,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+862,"I have few conditions before, sun lo",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+863,"Before you, you will be my share, okay... this flat has a half share, a half paise...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+864,I will not meet you... next,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+865,"We have two vehicles, one vehicle among us..",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+866,The skirt you wore.. next,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+867,"That..., umm... a lot of jewelery is kept in our bank locker...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+868,you have no influence on us,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+869,hey!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+870,"Now listen to me... Every month you earn Rs 60,000 for maintenance... Rs 20,000 out of 35,000 shares of our alliance industries... Rs 25,00,000 more out of your Rs 80,00,000 and Rs 25,00,000 increased. ... Alibaug's cottage is mine... and yes... you gave me Rs 15,00,000 as compensation for mental harassment, otherwise I filed a case of attempt to murder against you.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+871,attempt to murder!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+872,"If red-blue marks can be found on the face, then strangulation can not be found on the neck.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+873,"so... I can fulfill my conditions... varana... criminal proceedings are being done, indravardhan sarabhai.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+874,hehehehe... maya tum.. tum... tum.. please give me divorce... bapre baap you are too dangerous.. hehehe,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+875,aray don't worry about that... but the point is... what is the point?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+876,"haa... now the point is that if a woman divorces a man then he has to take off his vest, shirt, trousers, everything.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+877,"Why shouldn't a woman demand her rights... ha... she is a poor woman, she will go helpless.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],sadness
+878,"What is this, what kind of doctor is Dushyant and why is he waking up at your table?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+879,"India, why did you turn off the light?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+880,"Madhu Bhai, I did not light the main band.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+881,"You are a cloud, tell me why did you block the light?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+882,"After lifting them, can I throw them from the balcony?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+883,hai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+884,The light went on by itself.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+885,hai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+886,power failure.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+887,hai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+888,"oh yes, now give some kind of signal to others to make them understand that there has been a power failure.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+889,aray to mat samajhaiye na.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+890,"aray to ye chodenge thodi, 'hai? hai?' I will die for what I do.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+891,"Hey, what are you saying? I am becoming more and more foolish.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+892,Bewakoof!? I care about you. 'Hey?' hai?' you are karting. And am I stupid?... listen..,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+893,"see sonya. He started speaking immediately. When will Ram learn to speak clearly, his father.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+894,Where is that big wheel? I came to you today...,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+895,"aray dad, dad!",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],joy
+896,"is this? hai?' He does it only when he feels that we are talking. Look, I am talking without moving my face, so he is here? haan?' what are you doing?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+897,aray haan.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+898,hmmm.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+899,Don't get busy with yourself.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+900,"han. To abse apan, isi tarah, hile bager, baat karte rehenge.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+901,"hmmm, hmmm.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+902,"God bless, and the electricity will not come till morning. This is never less than this, you will get to chat with Kumar. hahaha..",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+903,hmm.. hehe..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+904,"array. But this Buddha, what is he doing there?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+905,"mil gayi indu, mil gayi!",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+906,What did he get?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+907,"ohhh. Oh yes, Sonya, this..., why are you keeping the torch on my face?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+908,"hai? what did you say, what did you say?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+909,"No need, come, I have thrown you out on the balcony, come, come.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+910,Dad! haha...,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+911,my vote goes to maya sarabhai.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+912,yay! whoopie!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+913,"hahaha. oh my god. oh, thank you so much sweetie!",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+914,thank you brother.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+915,congrats!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+916,thank you.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+917,"please sit down, sit down,",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+918,mom speech...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+919,"oh, haha..., well, ladies and gentlemen, our society has grown old.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+920,"But, to make it more safe, I have thought of some rules. rule number 1...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+921,oh my god! it's a tie!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+922,tie!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+923,tie!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+924,tie!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+925,"oh ho, rosesh, why have you come!",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+926,"You did not eat, so Monisha jeet did not eat.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+927,"well what to do now. All the members have voted. to obviously, I am...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+928,"kya ab? Where is the coast, huh?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+929,huh?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+930,Sahil's vote is still pending.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+931,"haan, hello sahil. Hey brother, hey brother, the election is over.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+932,"haan ​​haan, the coast is clear.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+933,"just 5 more minutes, here you will be on the beach.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+934,"okay, no problem.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+935,Hi!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+936,there!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+937,the shore is gaye!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+938,who won?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+939,"well, it's a tie.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+940,"Can you believe it, some people have also voted for Monisha.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+941,"Son, now you cast your vote so that you know who has become the secretary.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+942,go. go on!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+943,"le, rosesh, haha.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+944,"Along with ""le, rosesh"", ""naarayan, naarayan"" is also used.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+945,hahaha.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+946,"Sahil, pen hai na darling.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+947,"and, mine?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+948,"everybody, pay attention. Sahil bhai, monisha bhabhi, beth jaiye. Dad, you will perform this drama on Shanti Diwas.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+949,what is the name of the play,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+950,"The name is- 'If Shah Jahan canceled the plan of building Taj Mahal at the last minute, then he would like to build a South Indian hotel'",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+951,this is the name,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+952,One minute one minute. Why would Shah Jahan build a simple south Indian hotel instead of building the Taj Mahal?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+953,because it is cheap daddy ji,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+954,wow,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+955,"or then he also started earning money,",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+956,Or log what vehicle you sit in and eat raw masala dosa.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+957,You will get the answers to these questions yourself. listen to my drama first,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+958,you have written this play,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+959,"Walk on the shore, walk happily",disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],joy
+960,Wait for the shore. Are you waiting or listening?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+961,where to,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+962,actually its not a bad idea,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+963,"The play opens, Shah Jahan has grown old, his hair has turned grey. There are wrinkles on the face, the eyes have become weak. where is the cup at hand?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+964,"Checked blood pressure, what does ECG say?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+965,"Rosesh, we have not heard Shah Jahan's medical report, you have not heard the dialogue.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+966,"okay, suniye",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+967,"Ghasar Ghasar Ghasar Ghasar, Ghasar Ghasar Ghasar Ghasar.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+968,"One minute one minute, what is happening to this king of the world?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+969,Shah Jahan is making milk by grinding coconut on a stone.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+970,"Haan haan right right, in our time there will be no mixer grinder.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+971,Shah Jahan is roaming around the world.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+972,"A huge amount of money is being written, it is written on my ears, I will say, Mumtaz Begum, you are in love because of my love, the most beautiful news. papam papam papam papam",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+973,what is this papam papam papam papam,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+974,Shah Jahan is blowing the horn of his car.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+975,"haan, what will happen in the traffic jam?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+976,will you cut it out,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+977,"you, you cut it out. now i will write drama",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+978,hello everybody,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+979,"He heard it, he heard your drama. suna",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+980,thank you,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+981,"dad, the bag is ready",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+982,madhusudhan bhai why are you here?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+983,"yes, the plastic bag has been banned",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+984,"Why did this ban happen, now you keep disturbing me?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],anger
+985,yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+986,see,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+987,yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+988,"Madhusudhan Bhai, keep your mouth shut, I am writing a play.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+989,my ass is still there,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+990,"Madhusudhan Bhai, you will keep your mouth shut because I have not written the play.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+991,I don't even remember what I was writing about. culcutta sada.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+992,"Sahil, now what kind of play will I write?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+993,yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+994,"compensation! It's a good thing, what is the price of your coin?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+995,ham,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+996,"No, please tell me your value, what would be the price of a man's penis being sold for this much?",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+997,we never buy,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+998,"To be right, never even peck a hen. ham is vegetarian",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+999,Rosesh please keep quiet for a while. Monisha ji please you also keep peace,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1000,Why are you keeping me in peace? This scoundrel has thrown a trap on the pair of innocent people.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+1001,"Excuse me madam, please speak politely. Look, you have no right to threaten Rose's car. his car is warrior vx model. And its turbo engine has been designed by Italy's Roberto Platini, for your information.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1002,What is this pain?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1003,This is a bit technical. Dushyant Jakar can repair the kitchen.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1004,you mean what's wrong?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1005,"han go to Monisha's house. Everything has gone wrong. vahan uska electric cooler, air conditioner, laptop, microwave...",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1006,and my pc's modem is also bad,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1007,"Sahil, PC's modem is broken and you hid such a big thing from me? where is the modem?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1008,is he crazy?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+1009,Yes and my son-in-law too.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1010,"It is a good family item. Son-in-law is crazy, son-in-law.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],contempt
+1011,murderer?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],surprise
+1012,"Look madam, he has not committed murder.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1013,"There is a way to use man's luck, but he is going to send me to jail because of this.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1014,heart attack heart attack start,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1015,"ok, aaa.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1016,Main Madhu has explained everything to my uncle about Rosesh bhaiya.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1017,monisha but why did you come here?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1018,madhu bhai,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1019,are! Monisha are you? monisha this is monisha ben. Head of social welfare centre. They come here every month to donate blood. monisha ben how are you here?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1020,wow this boy is going to get me arrested,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1021,Rosesh also donates blood?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1022,madhu bhai i have arrested the boy...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1023,hain?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1024,Is he also your relative?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1025,"Madhu uncle, you read this.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1026,"""Yes Monisha ji is here to arrest Rosesh."" na na be. monisha ji this is my nephew",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1027,Saga Bhatija?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1028,Please forgive me if it is a mistake Inspector Sahab please leave it,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1029,well for this madam is adamant,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1030,"No no she always wears simple saree. Monisha ji, please tell the inspector why he left it.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1031,We are trying to apologize. go on say sorry.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1032,i am very sorry,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1033,"When Madhu Bhai said he is here, I asked him to leave.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1034,madhusudan uncle today for the first time you have come less,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1035,hi monisha,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1036,hi shore,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1037,"I have told you so many times, yet you are still eating vada pav.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1038,shore! shore! Sahil!... soch samaj ke bona... whatever you say will come true... rosesh bhaiya has said that that african chant will be activated after 8 hours... and 8 hours have passed now sahil,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1039,monisha...its meaning is that dushyant has become a donkey...hehe,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1040,Rosesh Bhaiya is there to see.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1041,monisha...if you are doing that chant work...to this moment dad's pic... teen (3)... teen (3)... madhu uncle... indu.. indu.. He has done the work... he will come through the door... if he is still working.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1042,shore... you too...,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1043,what happened?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1044,shore! shore! I have eaten!,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+1045,hey indu! hey indu! ae indu!... indu!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1046,shore...see this,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1047,what happened? kya hua?... how many wickets?... how many talkies?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1048,sea... my beloved enemy... triple role mein,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+1049,"Don't worry, I will go crazy..",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1050,hai? hai? hai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1051,"aray... I told you guys that you guys are saying ""hai hai"" and you are ho tino.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+1052,polyester? No... Sarojini Naidu... shut up... Rajdhani Express.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1053,Look at the beach... everyone's teens are getting better... and you are wondering what I will say.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1054,hai? hai? hai?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1055,sahil...that african chant started to reduce,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1056,no! no!,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],anger
+1057,kya nahi nahi... look at teen teen madhu fufa!,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1058,this is a trick!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+1059,There is no trick to be learned... see...,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1060,shut up... shut up you... you are crazy!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+1061,na nana na na na! nana nana na na!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1062,dad..dad..please tell me what to do?!,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1063,Madhusudhan uncle.. see..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1064,Nahi nahi... sev puri ahi ahi... only 2 more left... aray uski tickete to black ho ho hai...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1065,Sahil.. Sahil... By making the teenon disappear I will be ruined in Varana... I will be murdered Sahil.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],sadness
+1066,madhusudhan fufao… go away!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+1067,Gaye!... now pack it!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1068,Madhu uncle is missing!... Madhu uncle is missing!... Madhu uncle is missing.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1069,Aray aray shore....shore shore..sun sun sun sun shore sun...make this also normal.. I mean make it less like before please!,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+1070,monisha...dress as normal as before.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1071,Sahil... daddy ji.. can I make paneer for you?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1072,paneer our?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1073,bass paneer,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1074,hey!!!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1075,we will continue to eat... we will eat with paneer aachar... go!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1076,okay,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1077,i mean.. monisha bai!!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1078,"On the shore... I am added to the heart... whatever little is said, it has to be said by the thinking society.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1079,"ohh...this is Malvika's need, everyone will go....",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1080,hello boys... you are looking very cute teeno,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1081,and Dushyant you... too,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1082,Is the belt clean?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1083,yes,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1084,coast!!!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+1085,ahh...haha....hi sweetheart...how are you!..haha..,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1086,kya khel/kar rahe aap log,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1087,Not much...daddy is showing how much he loves me,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1088,hahaha... to that he will have eaten within 30 seconds... then after that?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+1089,Do you want to see how much he loves me?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1090,definitely!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1091,"Daddy, I am thirsty... water?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1092,ofcourse... aahh... beta sadha piyoge ya thanda... mere munna!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1093,unbelievable!,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],joy
+1094,"okay boys, now there is no need to worry, I have sucked both of them",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1095,Hello...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1096,Hello...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1097,who is this?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1098,plumber,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1099,plumber!?... lady plumner!?... aap logne lady plumber ko buaya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1100,Maya... You are saying that a woman should do the work that a man does... that's why...,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1101,aa.. we searched through the yellow pages and called a lady plumber here.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1102,very interesting...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1103,umm.. miss.. umm..,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1104,brahham gachak shanika!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1105,ohh whatever... are you a plumber?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1106,Haaa!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1107,"Where did you go, why did I suck both of them... what did you suck?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+1108,"Haa vo… Maya, you are a fool, you are sucking live wires in the bathroom, you are giving a shock.. you are sucking those wires.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],anger
+1109,Achha achha... you called a plumber to clean the wire... hehehe... the electrician...,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1110,"We had to call the electrician, but they rose!",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1111,daddy...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1112,"The poor guy even said to call an electrician, but he had no idea.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1113,maine!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+1114,"No no.. Sahil said, this is what he calls, he has given everything, plumbing work too, and electrician work too, and he also has a special friend, sister.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1115,"Sahil, is she your special friend?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1116,his brother is my special friend,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1117,Why didn't you call me to use it again?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1118,ummm... because he is not a plumber!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1119,Now I am coming... please make my payment...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1120,Wait a minute... I will tell you after a while,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1121,"Why in the future, I have money now, I'll give it... how much money have you missed..",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1122,"no!... no.. you don't get any money from Maya at all... only, you don't check it!",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+1123,cheque!?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1124,to the plumber?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1125,"ooo.. i am kind of enjoying this... rosesh, what is the matter",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1126,"rosesh, don't you tell me what you will drink... tea, doodh... or then margarita with crushed ice.. mere laal",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1127,wonderful!... but what's the catch rosesh,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+1128,excuse me...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1129,Wait!,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1130,"Hey, how are you able to do this, your pan and pack are here, right?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1131,I will never read again,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],sadness
+1132,"aray..haha..how can you do it...you got a contract somewhere else, how can you work without a contract?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1133,way my paas and 6 pakkad and 15 paanas,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1134,ouch!,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+1135,aaah haa... how indravardhan these sounds come from the bedroom,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1136,Andar kaun hai!?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1137,paana pakkad!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1138,Bolt hui paana aur pakkad!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1139,dushyant!... ab samjha na engineer!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1140,What is that robotized pana and what is it... like when we have problem we shout... I'll explain... the rose of the earth is wired...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1141,"okay, cut it out Dushyant... can someone please tell me what is true?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1142,I will tell you what is the truth...and there are 2 girls in the bedroom.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1143,"mummy ji, quickly!",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1144,These... utensils and keep them in the kitchen.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1145,"mummy ji, later in the day",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1146,"hello baldev uncle, aaiye",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1147,"hi baldev, hello sirupa",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1148,"Rosesh poetry, how is it going?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1149,nice uncle,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1150,this is a gift for you,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1151,how sweet of you...hawww!,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1152,What is this… black sour!?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+1153,nahi... hehe... wine,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1154,cabernet sauvignon,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1155,show...,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1156,aachhii(sneeze)....,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1157,aaaa!,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+1158,"Haha.. what a good omen it is if rice falls on the head, baldev.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],joy
+1159,"Which CD did mom give you? There is loud music in the air, there is Nilima aunty's speech.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1160,This is your CD. the great comedy of errors,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1161,"comedy of errors why? Haa haa madhu uncle, how are the hearings going? What are you talking about? Why is this so serious?",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1162,"Namaste, Monisha Sahil Sarabhai, my mother-in-law, my mother, I always wanted to hear about my brother. People say that mother-in-law is also like mother. This is wrong but my sans could never be my mother. Mike never stopped talking to me because of me. I gave away all my things, my books, under the jute socks, to my beloved God, and kept all the things in that place. But my mother-in-law forcefully cleans the house. You have scolded me from above. I always have a date in my mind. When I eat ice cream, when ice cream starts appearing in my hand, I start using it. Then my mother looks at me and says how beautiful I am, Monisha. But my mother-in-law is staring at me like this in the hotel. I never asked for ice cream in my childhood. My man is my man. But my mother-in-law is my teacher. Despite my efforts to improve my carelessness, it has never been the same till now and I want it to be up to my level. What was the meaning of scurvy on our shores?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1163,replica,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1164,"Yes, my mother-in-law wants me to make her replica. And if I succeed then I will be the happiest. Because there is no one like Maya Sara Bhai, if I could see you in my replica band then I would be blessed. True, my mother-in-law was never my mother but Shakti.and she is my lover.Thank you Jai Hind.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1165,good morning maya,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1166,good morning sweetie,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1167,breakfast breakfast breakfast,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1168,vitthal everyone has breakfast,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1169,"Never drink main milk. Maya is my daily routine, I have been there 6 times since morning.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1170,Who will eat this vegetable burger and smash potato? Who will eat this grill sandwich?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1171,Do one thing and give it to Rosesh Baba with strawberry milkshake.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1172,dr? .. Haa... Dr Saab said... my report is wrong. I don't have a daily routine. maya good news I don't have diarrhea. I can eat everything.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1173,ok? Why did you go to the toilet 6 times since morning? aisehi,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1174,That's for safety's sake even though I'm sure I don't have a diary but I said why take the moon?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1175,You are supposing that if you had a cough and cold in your wrong report then you would have noticed this especially since that morning? just to be on the safe site haan? such a liar indu. vitthal do your breakfast,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1176,hurry up hurry up the milk,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1177,"But I eat so much food, I also make pineapple pudding, walnut cake and aluminum cutlets for breakfast. I am so happy for my home so happy. where are you Rosesh?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1178,"What's the matter, why are you so happy in the morning Maya? there is definitely some blackness in the lentils",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1179,I wonder why you are so happy sir?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1180,tell me quickly,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1181,I don't like gossiping.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1182,vitthal he bought hundred rupees,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1183,gossiping like this doesn't seem so bad to me but,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1184,le 200 rupees ab bata,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1185,"Sir, I feel like gossiping but",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1186,Chorna mujhe hu nahin hai,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1187,sir sir 200 hi de dijiye,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1188,I don't like giving bribe at all,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+1189,Please give it to me.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1190,Giving bribe like that doesn't seem that bad to me.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1191,achha 50 chalega,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1192,aa haa. this is 50 rupees ab chal bata,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1193,"Sahib, last night there was a lot of excitement between Monisha, Sahib and Sahil Baba. Monisha Memsaab threatened to commit suicide",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1194,ok that's it. Then tell me why is Maya Rani in such a mood?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+1195,indravadan indu aaj movie dekhne chalen,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1196,Well who made Monisha dead? This bride makes herself happy and sans hasi happy happy,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+1197,what are you talking about indu?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1198,oh ho ho innocent and innocent Mallika. How did you find out why there was such a big fuss about the beach and Monisha?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],contempt
+1199,are o.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1200,"And you must have done a lot of harm to me, you have fought a big fight with Monisha and Monisha started making me feel sorry for you, you will wear only white color.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],contempt
+1201,stop it indravardhan.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1202,I am really really really very sorry doctor Sahil agar main abhi aap mein se mein aati aati aapko mein se mein aapne aap nahi pada meri laas pahchane.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1203,neelima ji stop it please,disgust,0,0,0,0,0,0,0,1,[1 0 0 0 0 0 0 0],neutral
+1204,"Nothing, nothing, today I myself did not walk from my balcony but stopped. I live in the main 22nd floor.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1205,to,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1206,22nd is very unlucky number for me. if not marti to,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1207,"to your friend's and neighbor's house on 21st, 23rd, 24th",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1208,"Monisha Hamen should not encourage jumping from a balcony, okay. just leave us alone for. what are you talking about",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1209,no thanks doctor mein apna fire case dinner karke hi khud ne thi ok thik hai agar aap sohi hi insist tu i have a glass of wine,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1210,"Ok Monisha, please bring some wine from your bedroom fridge.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1211,sahil si wali 170 wali 540 wali,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1212,540 wali le aao darling,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1213,very expensive,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1214,"she is so cute really. One is this and one is my boyfriend who always says that Preity Zinta is better than you. she is so beautiful .she is so hot .she is so gorgeous . aur uske dimples uske dimples to wow. You know, Doctor Sahab, today I am the main one…..he roamed around like this.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1215,kyon,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1216,"Preity Zinta's dimples are the ones who are running on the doctor's side. You quickly make me like Preity Zinta, take a look at her picture. I see it like this ok.yeah alright. Aur haircut aur haircut mujhe ho na ho ho chahiye. but not the lux lux is very tacky you know. And he waved a little to my left. alright se a little straight.or pitch se",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1217,Neelima Neelima Neelima is an inecostumeologist. And how good are you in yourself?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1218,really,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+1219,i mean you are unique tum banke main very beautiful ho,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1220,really?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+1221,han han your boyfriend is really crazy. my eyes wow they are gorgeous,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1222,really,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],surprise
+1223,believe me and your hairstyle,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1224,and my hands,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1225,that too.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1226,thank you thank you so much doctor Sahil has gone. What is going to happen? Naa naa naa laa raa raa.,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1227,brilliant,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1228,thank you thank you doctor sahil agar aap mere boyfriend hote tu me liye tajmahal banate na,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1229,For that you had to kill Neelima ji wine first.,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+1230,"oh she is jealous i can see it in your eyes. I wish my boyfriend was also so possessive.nevermind. Yes Sir, you are a doctor, please come and sit with me. Make me look like Preeti Zinta and like I told you that my hairstyle is a little different from here and a little more than that.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1231,neelima neelima neelima you are a psychic case you need a psychiatrist,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1232,psychiatrist,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1233,yes,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1234,That means you think I am crazy. A hell bastard's kurta goes and makes me look beautiful. otherwise what did you do to me?,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],anger
+1235,"What will happen if you reach the shore, daddy? I am feeling very scared.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],sadness
+1236,"Nothing will happen. You only have the tail light broken, right?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1237,nhi. The paint has also been peeled off and the seat cover of the car has also been damaged.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1238,what? Why did the seat cover get damaged?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+1239,"She, I had lipstick in my hand, she fell on the seat.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1240,"I told you crazy, don't sit while we apply lipstick.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1241,I don't feel like this daddy ji,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1242,to?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1243,She was writing on the windshield before I drove away. ha ha ha.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1244,"What do you do? You don't know how to reverse or you keep driving a car worth one crore twelve lakh. Would the mountain have fallen if Maya had walked before you? I was the first one, the first one, the first one.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1245,"Hey there, daddy ji, you didn't say that.",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1246,"Monisha, you are sitting in the middle of my bed. I did not say anything in the court in front of the judge. yes.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1247,in the court?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1248,"haan! When he finds out the truth, he will rush to take you to court for divorce.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1249,huh? what?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],surprise
+1250,"hahaha. mother? You were tugging at my brain. Me or you are in support, has this ever happened?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1251,Will you support me daddy ji?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1252,Is this even a question to be asked? You will stay with me even after divorce!,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1253,daddy ji!,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],joy
+1254,"okay, relax, relax. So tell me, did anyone see when you started the car?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1255,"umm, no no.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1256,"bas! problem solved. You are also silent, I am also silent. As soon as the shore comes to use...",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1257,"okay mom, I am waiting below.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1258,hi shore,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1259,Hi. What are you guys doing here?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1260,"umm, the wind is blowing.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1261,hawa? where is the wind here?,contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+1262,Where are we from?,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1263,brilliant,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1264,"monisha, my friends. oh my god.",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1265,"shore, this is your donkey, your wallet or your handkerchief. orr, these are your jokes",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1266,i just don't believe this. Who has done this condition of the house?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],anger
+1267,I did the beach. ekdum chakachak haina,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1268,thanks a lot. finally you listened to me. thanks a million,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1269,"There is no need to say thanks, it is my duty.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1270,haan ​​haan but nibhaya to first time na,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1271,"For the first time I am here, Karan Verma alias Patang ji.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1272,"Acha wo… kyaaa. okay, that means you have done all this cleaning for that kite.",surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1273,"Sahil, I told you that the kite has come to our house. competition",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1274,"monisha bhabhi, this… wow, amazing. You are ready to welcome the kite.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1275,"haina. Acha Sahil, you have not gone to the clinic today, nor will you go. Acha theek hai hai jana. how much tiffin does bhejun cost?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1276,"tiffin 2 o'clock, orr...",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1277,"The kite has come. Sahil, please light this lamp, quickly. or rosesh bhaiya, poem",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1278,Only a little is left.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1279,"Rosesh bhaiya, how will I welcome you... you too. hurry to the shore. Or Rosesh bhaiya, you will open the door please but yes, you will open the door again, yes.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1280,teen bar why,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1281,"Because in the serial, when the kite enters, the teen door opens... Has the teen door opened? Has Rosesh Bhaiya arrived?",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1282,"We are the badshah of TV, we are crazy about what girls have done. Who took autograph and who took photograph. But, this art, this art has not been used by anyone for the first time.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],contempt
+1283,"wow, nice one huh",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1284,"shhh, come on, come on",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1285,"Karan ji, Karan ji, this is my wall, Rosesh.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1286,hi,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1287,hi,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1288,"Or this, this is my wife. or me...",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1289,"let me guess, you are monisha",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1290,How did you know?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1291,Both of them are dead and their name cannot be called Monisha. I thought maybe you are Monisha.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1292,how intelligent na...,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],joy
+1293,"But why are you eating, sitting? Aaiye aaiye.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1294,"One minute, one minute. hate...",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1295,what was this,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1296,"This is mine, entry music is in the serial. My name is Patang in the serial.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1297,"Ooh, meaning, whenever you enter, music starts playing again and again.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],joy
+1298,"yes, infact if there is a sad scene then there is a sad version too.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1299,what is that,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1300,lapet..... lapet..... lapet bas,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+1301,"rosesh bhaiya, please click the photo",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1302,there should be a separate pose,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1303,I am in Monisha's office.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1304,one or,joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1305,yes yes sure,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1306,wo ese wala,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1307,Momma!,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+1308,"rosesh, keep your spirits up, sweetie",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1309,"Kaise Rakhun Husla, Momma?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1310,"control yourself, sweetie.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1311,"how to control, momma?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1312,"Son, try to understand.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1313,"How should I try to understand, momma?",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1314,"You haven't learned to do even a single thing since you were a teenager? You always ask, ""What should I do, Mom?"" Maya, what will happen if I get married?",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+1315,"India, please! just shut up! This poor guy's visa has been rejected.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],anger
+1316,"She was there, I told her to wear a burqa in front of the visa office, then she showed her face, then she also opened her mouth, “Hi, I want to visit my parrot uncle in the U.S.”",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],joy
+1317,Indu with stupid band and achieve a lot. go. bring water.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1318,main mard hoon.,anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1319,"I know, but now nothing can be done about it. You will have to accept it.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1320,For how many days are you going now?,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1321,It will take a month or so,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1322,"one month! Main to adha mar jaunga, momma.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1323,"Maya, in that case, why don't you get fired for the month?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1324,"Indravadhan, please! answer the phone.",anger,0,0,0,0,0,0,1,0,[0 0 1 0 0 0 0 0],neutral
+1325,main mard hoon. who? viruses?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1326,Viren! what happened?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1327,"Popat Kaka is passing by, shore.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1328,"ah, i know that. Come on, pull yourself together.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1329,We are not going to Los Angeles.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1330,hm.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1331,We will mourn here.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1332,to?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1333,to what? main main in los angeles? Soap is just a dollar a dozen. The chance was gone.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1334,"Stay calm, mom.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1335,"Who can speak this language, Momma?",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1336,"Hey, look at Rosesh.",contempt,0,1,0,0,0,0,0,0,[0 1 0 0 0 0 0 0],neutral
+1337,Let me serve you ice cream by pouring it on my pot.,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1338,"Mom jab choti thi na, tab.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1339,"accha, tab.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1340,"You know, my Kanyadaan also did it, and that is the diamond set which I gave to you, Monisha.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1341,which one?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1342,"There, you were wearing artificial silk salwar kameez. That too had impressed me. I am his beloved.",sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],joy
+1343,hongi. That's why you dare to call them such naughty pet names – Popat Kaka.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],contempt
+1344,"monisha, this is your real name",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1345,popat?,surprise,0,0,0,0,0,1,0,0,[0 0 0 0 0 0 0 1],neutral
+1346,"In Gujarati, the name of the old man is like elephant brother, Gujara Lal.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1347,"Well, our mother's name was Mirchi Mami. You know, mirchi, popat.",joy,0,0,0,0,1,0,0,0,[0 0 0 0 1 0 0 0],neutral
+1348,died at home,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1349,"Hey, Maya. Mainly trying to relax the atmosphere.",neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1350,shore shore shore Only 4 days left or all the girls are gone?,fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
+1351,Yes but mom will finalize one of the four.,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1352,mummy ji doesn't like any of us,sadness,0,0,1,0,0,0,0,0,[0 0 0 0 0 1 0 0],neutral
+1353,rosesh ko?,neutral,1,0,0,0,0,0,0,0,[0 0 0 1 0 0 0 0],neutral
+1354,"He likes all four. Everyone is on the beach, time is passing by. Rosesh bhaiya is also worried as to who will become his bride. I know he has cheated till he eats and drinks.",fear,0,0,0,1,0,0,0,0,[0 0 0 0 0 0 1 0],neutral
