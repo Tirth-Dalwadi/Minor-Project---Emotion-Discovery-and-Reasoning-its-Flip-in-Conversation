@@ -1,0 +1,261 @@
+[
+    {
+        "episode": "lease1.wmv",
+        "speakers":
+        [
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha"
+        ],
+        "utterances":
+        [
+            "theek se wajan karana",
+            "monisha",
+            "abhi ayi. yeh, ye bhi rakho.",
+            "monisha, iss churidaar me nara nhi hai.",
+            "to kisee aur churidaar ka nara nikalke dalo na isme sahil."
+        ],
+        "triggers":
+        [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "emotions":
+        [
+            "neutral",
+            "neutral",
+            "anger",
+            "neutral",
+            "neutral"
+        ]
+    },
+    {
+        "episode": "lease1.wmv",
+        "speakers":
+        [
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil"
+        ],
+        "utterances":
+        [
+            "theek se wajan karana",
+            "monisha",
+            "abhi ayi. yeh, ye bhi rakho.",
+            "monisha, iss churidaar me nara nhi hai.",
+            "to kisee aur churidaar ka nara nikalke dalo na isme sahil.",
+            "ish churidar ka nara kaha gaya.",
+            "radde ka wajan ho jane do, deti hun.",
+            "raddee ka wajan aur churidaar ke naare ka kya sambandh hai?",
+            "akhabaar ke baad magazine ka bundle bechungi nah, toh tumhaara naada mainne",
+            "mera choodeedaar ka naara istemaal kiya woh bundle bandne ke liye?"
+        ],
+        "triggers":
+        [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "emotions":
+        [
+            "neutral",
+            "neutral",
+            "anger",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "surprise"
+        ]
+    },
+    {
+        "episode": "lease1.wmv",
+        "speakers":
+        [
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha"
+        ],
+        "utterances":
+        [
+            "theek se wajan karana",
+            "monisha",
+            "abhi ayi. yeh, ye bhi rakho.",
+            "monisha, iss churidaar me nara nhi hai.",
+            "to kisee aur churidaar ka nara nikalke dalo na isme sahil.",
+            "ish churidar ka nara kaha gaya.",
+            "radde ka wajan ho jane do, deti hun.",
+            "raddee ka wajan aur churidaar ke naare ka kya sambandh hai?",
+            "akhabaar ke baad magazine ka bundle bechungi nah, toh tumhaara naada mainne",
+            "mera choodeedaar ka naara istemaal kiya woh bundle bandne ke liye?",
+            "haan to kuchh aur ghar mein tha nehi na sahil?",
+            "wo magazine me se nara nikalo, come on.",
+            "sahil 1 minute na kya"
+        ],
+        "triggers":
+        [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "emotions":
+        [
+            "neutral",
+            "neutral",
+            "anger",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "surprise",
+            "neutral",
+            "anger",
+            "anger"
+        ]
+    },
+    {
+        "episode": "lease1.wmv",
+        "speakers":
+        [
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha",
+            "sahil",
+            "monisha"
+        ],
+        "utterances":
+        [
+            "theek se wajan karana",
+            "monisha",
+            "abhi ayi. yeh, ye bhi rakho.",
+            "monisha, iss churidaar me nara nhi hai.",
+            "to kisee aur churidaar ka nara nikalke dalo na isme sahil.",
+            "ish churidar ka nara kaha gaya.",
+            "radde ka wajan ho jane do, deti hun.",
+            "raddee ka wajan aur churidaar ke naare ka kya sambandh hai?",
+            "akhabaar ke baad magazine ka bundle bechungi nah, toh tumhaara naada mainne",
+            "mera choodeedaar ka naara istemaal kiya woh bundle bandne ke liye?",
+            "haan to kuchh aur ghar mein tha nehi na sahil?",
+            "wo magazine me se nara nikalo, come on.",
+            "sahil 1 minute na kya",
+            "nada do na, come on fast",
+            "ok fine. toot gya. isiliye kehte hai humesha churidar me na, zip lagani chahiye"
+        ],
+        "triggers":
+        [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1"
+        ],
+        "emotions":
+        [
+            "neutral",
+            "neutral",
+            "anger",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "neutral",
+            "surprise",
+            "neutral",
+            "anger",
+            "anger",
+            "anger",
+            "fear"
+        ]
+    },
+    {
+        "episode": "lease1.wmv",
+        "speakers":
+        [
+            "maya",
+            "rosesh",
+            "maya"
+        ],
+        "utterances":
+        [
+            "hello maaya sarabhai, ha kya baat hai chawkidaar?",
+            "kaun aaya hain mamma?",
+            "municipal corporation se kohi loog aya hain."
+        ],
+        "triggers":
+        [
+            "0",
+            "0",
+            "1"
+        ],
+        "emotions":
+        [
+            "neutral",
+            "neutral",
+            "fear"
+        ]
+    }
+]
